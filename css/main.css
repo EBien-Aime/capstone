@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/93/c6/9b/93c69bf5-9730-d26a-b574-f352bab9f8d2/pr_source.jpg/643x0w.jpg");
+  background-color: #040949; }
+
+h1 {
+  font-family: Helvetica;
+  color: white;
+  text-align: center; }
+
+.box {
+  width: 50%;
+  border: 2px dotted white;
+  margin: 0 auto;
+  color: white;
+  font-size: 50px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #cccccc;
+  margin: 10 auto;
+  text-align: center; }
+
+p {
+  font-family: Helvetica;
+  color: white; }
+
+#clue {
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
